@@ -2,11 +2,10 @@
 
 This project demonstrates how to control three LEDs using three individual pushbuttons with an Arduino Uno board. Each button is configured using the internal pull-up resistor, meaning that when the button is not pressed, its corresponding LED turns on. When the button is pressed, the LED turns off. 
 
-# Project Review
-![Circuit Diagram](C:\Users\asus\Downloads\3-Buttons.png)
+## Project Review
 
 You can view and simulate the project here:  
-[Open in Tinkercad](https://www.tinkercad.com/things/l1G3CLttWLD-frantic-jaban-stantia?sharecode=wCKAhBl1kferzQ2xOvuAcWyagAp2YfYwt0Jtn-NDfAw)
+[Open in Tinkercad]([https://www.tinkercad.com/things/l1G3CLttWLD-frantic-jaban-stantia?sharecode=wCKAhBl1kferzQ2xOvuAcWyagAp2YfYwt0Jtn-NDfAw](https://www.tinkercad.com/things/3UchOBOk7dp-3-buttons?sharecode=6Ve1JMfu2CWfBpUAk4KIv_Zw7vHIs9aPYw1DxOi4yO0))
 
 ## Project Components
 
